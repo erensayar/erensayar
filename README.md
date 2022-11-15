@@ -2,7 +2,16 @@
 <h3 align="center">Back End Laborer, CS Nerd And CS Pervert from Turkey</h3>
 
 <h1>Code Quality Standard That I Accepted</h1>
-<img src="CodeQualityMeasurment.png"></img>
+<img src="CodeQualityMeasurment.png" align="center" width="600" height="600"></img>
+
+<a href=#><img src="contributions.svg"></a>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/erensayar/count.svg" />
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
