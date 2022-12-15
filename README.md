@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Eren 👾</h1>
 <h3 align="center">Back End Laborer, CS Nerd And CS Pervert from Turkey</h3>
 
+![Eren-Sayar](https://komarev.com/ghpvc/?username=erensayar&label=Views&color=blue&style=plastic) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=erensayar&show_icons=true&theme=gradient)
+
 <h1>Code Quality Standard That I Accepted</h1>
-<img src="CodeQualityMeasurment.png" align="center" width="600" height="600"></img>
+<img src="CodeQualityMeasurment.png" align="center" width="400" height="400"></img>
 
 <a href=#><img src="contributions.svg"></a>
 
