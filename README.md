@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I'm Eren 👾</h1>
-<h3 align="center">Back End Laborer, CS Nerd And CS Pervert from Turkey</h3>
+<h1 align="center">Back End Laborer, CS Nerd And CS Pervert 👾</h1>
 
 <br>
 
-<div>
-  <h1>Code Quality Standard That I Accepted</h1>
-  <img src="CodeQualityMeasurment.png" align="center" width="335" height="335"></img>
-  <img src="CodeQualityMeasurment.png" align="center" width="335" height="335"></img>
+<div align="center">
+  <h1 align="center">Code Quality Standard That I Accepted</h1>
+  <img src="CodeQualityMeasurment.png" width="350" height="335"></img>
 </div>
 
 
