@@ -11,7 +11,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center">
-  Visitor count since November 0022
+  Visitor count since November 2022
   <br>
   <img src="https://profile-counter.glitch.me/erensayar/count.svg" />
   <!--![Eren-Sayar](https://komarev.com/ghpvc/?username=erensayar&label=Views&color=blue&style=plastic)-->
