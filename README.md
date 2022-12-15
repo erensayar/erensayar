@@ -1,10 +1,10 @@
-<h1 align="center">Back End Laborer 👾</h1>
+<h1 align="center"> Eren... The Back End Laborer 👾</h1>
 
 <br>
 
 <div align="center">
-  <h2>Code Quality Standard That I Accepted</h2>
-  <img src="CodeQualityMeasurment.png" width="400" height="400"></img>
+  <h3>Code Quality Standard That I Accepted</h3>
+  <img src="CodeQualityMeasurment.png" width="420" height="420"></img>
 </div>
 
 
