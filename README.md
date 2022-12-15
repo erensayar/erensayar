@@ -1,10 +1,10 @@
-<h1 align="center">Back End Laborer, CS Nerd And CS Pervert 👾</h1>
+<h1 align="center">Back End Labore 👾</h1>
 
 <br>
 
 <div align="center">
-  <h1 align="center">Code Quality Standard That I Accepted</h1>
-  <img src="CodeQualityMeasurment.png" width="350" height="335"></img>
+  <h2>Code Quality Standard That I Accepted</h2>
+  <img src="CodeQualityMeasurment.png" width="400" height="400"></img>
 </div>
 
 
