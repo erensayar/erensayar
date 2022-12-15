@@ -5,7 +5,8 @@
 
 <div>
   <h1>Code Quality Standard That I Accepted</h1>
-  <img src="CodeQualityMeasurment.png" align="center" width="400" height="400"></img>
+  <img src="CodeQualityMeasurment.png" align="center" width="335" height="335"></img>
+  <img src="CodeQualityMeasurment.png" align="center" width="335" height="335"></img>
 </div>
 
 
