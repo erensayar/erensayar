@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools</h3>
 <div style="text-align: center; padding-inline: 10px;">
     <p align="left">
-    <img src="/img/spring.svg" alt="Spring" style="width="50" height="50">
+    <img src="https://spring.io/img/spring.svg" alt="Spring" style="width="50" height="50">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="50" height="50" /> </a>
